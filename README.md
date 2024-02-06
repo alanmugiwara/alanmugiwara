@@ -13,9 +13,10 @@
 <body>
 ## Hello!
 
-<br>Tenho 32 anos, sou natural de Salvador/BA, moro em São Paulo/SP desde novembro de 2021. Sou bacharel em Museologia pela UFRB (2012/2017). Faço Análise e Desenvolvimento de Sitemas (2023/2025) na Anhanguera (Santana/SP)<br>e estou em fase de migração de carreira,estagiando na SMIT/CGTIC - Prefeitura SP.<br>
-
+<p align="justify">
+<br>Tenho 32 anos, sou natural de Salvador/BA, moro em São Paulo/SP desde novembro de 2021. Sou bacharel em Museologia pela UFRB (2012/2017). Faço Análise e Desenvolvimento de Sitemas (2023/2025) na Anhanguera (Santana/SP)<br>e estou em fase de migração de carreira,estagiando na SMIT/CGTIC - Prefeitura SP.<br></p>
 <div>
+
 <a href="https://github.com/alanmugiwara">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanmugiwara&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=alanmugiwara&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
