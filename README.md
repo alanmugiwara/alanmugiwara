@@ -13,7 +13,7 @@
 <body>
 ## Hello!
 
-<br>Tenho 32 anos, sou natural de Salvador/BA, moro em São Paulo/SP desde novembro de 2021.<br>Sou bacharel em Museologia pela UFRB (2012/2017). Faço Análise e Desenvolvimento de Sitemas (2023/2025) na Anhanguera (Santana/SP) e estou em fase de migração de carreira,<br>estagiando na SMIT/CGTIC - Prefeitura SP.<br>
+<br>Tenho 32 anos, sou natural de Salvador/BA, moro em São Paulo/SP desde novembro de 2021. Sou bacharel em Museologia pela UFRB (2012/2017). Faço Análise e Desenvolvimento de Sitemas (2023/2025) na Anhanguera (Santana/SP) e estou em fase de migração de carreira,<br>estagiando na SMIT/CGTIC - Prefeitura SP.<br>
 
 <div>
 <a href="https://github.com/alanmugiwara">
