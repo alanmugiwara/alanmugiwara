@@ -7,13 +7,9 @@
 <div dsplay="inline-block">
  
  <h1 align="left">Álan Cruz</h1>
- <img alt="GitHub followers" src="https://img.shields.io/github/followers/alanmugiwara">
- </head>
-
-<body>
+ 
 ## Hello!
-
-<br>Tenho 32 anos, sou natural de Salvador/BA, moro em São Paulo/SP desde novembro de 2021. Sou bacharel em Museologia pela UFRB (2012/2017). Faço Análise e Desenvolvimento de Sitemas (2023/2025)na Anhanguera (Santana/SP) e estou em fase de migração de carreira, estagiando na SMIT/CGTIC - Prefeitura SP.<br>
+Tenho 32 anos, sou natural de Salvador/BA, moro em São Paulo/SP desde novembro de 2021. Sou bacharel em Museologia pela UFRB (2012/2017). Faço Análise e Desenvolvimento de Sitemas (2023/2025)na Anhanguera (Santana/SP) e estou em fase de migração de carreira, estagiando na SMIT/CGTIC - Prefeitura SP.<br>
 
 ## Estou aprendendo
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge">
