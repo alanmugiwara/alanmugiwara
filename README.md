@@ -15,6 +15,13 @@
 
 <br>Tenho 32 anos, sou natural de Salvador/BA, moro em São Paulo/SP desde novembro de 2021. Sou bacharel em Museologia pela UFRB (2012/2017). Faço Análise e Desenvolvimento de Sitemas (2023/2025)na Anhanguera (Santana/SP) e estou em fase de migração de carreira, estagiando na SMIT/CGTIC - Prefeitura SP.<br>
 
+## Estou aprendendo
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge">
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript Badge">
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge">
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Badge"><br>
+</br>
+
 <div>
 <a href="https://github.com/alanmugiwara">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanmugiwara&layout=compact&langs_count=7&theme=dracula"/>
