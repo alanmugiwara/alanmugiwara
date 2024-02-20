@@ -1,15 +1,16 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
-
 <head>
 
-<img align="right" width="250px" style="margin-top:-20px" src="https://i.ibb.co/jh6q0v4/alan-avatar.png">
-<div dsplay="inline-block">
+ <a href="https://github.com/jumpmanclubbrasil">
+  <img align="right" width="250px" style="margin-top:-20px" src="https://i.ibb.co/B3RK81T/jump-logo.png">
+</a>
+<div style="display: inline-block">
  
  <h1 align="left">Álan Cruz</h1>
  
 ## Hello!
-Tenho 32 anos, sou natural de Salvador/BA, moro em São Paulo/SP desde novembro de 2021. Sou bacharel em Museologia pela UFRB (2012/2017). Faço Análise e Desenvolvimento de Sitemas (2023/2025) na Anhanguera (Santana/SP) e estou em fase de migração de carreira, estagiando na SMIT/CGTIC - Prefeitura SP.<br>
+Tenho 32 anos, sou natural de Salvador/BA, moro em São Paulo/SP desde novembro de 2021. Sou bacharel em Museologia pela UFRB (2012/2017). Faço Análise e Desenvolvimento de Sitemas (2023/2025) na Anhanguera (Santana/SP) e estou em fase de migração de carreira, estagiando na SMIT/CGTIC - Prefeitura SP.<br> <h4 align="right">Repostório do grupo de tradução de games<br/>que fundei ao lado amigos no fim de 2017.</h4>
 
 ## Estou aprendendo
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge">
