@@ -44,7 +44,7 @@ Tenho 32 anos, sou natural de Salvador/BA, moro em São Paulo/SP desde novembro 
 [![My Playlist](https://img.shields.io/badge/My%20Garage%20Rock%20Music%20Playlist-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/4kL0kA3lIKKjaq06u0SOGm)
 
 
-![Recently Played in Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31azx3lfr7765tkvcyw4l6ow36ri)
+[![Recently Played in Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31azx3lfr7765tkvcyw4l6ow36ri)](https://open.spotify.com/user/31azx3lfr7765tkvcyw4l6ow36ri)
 
 <div>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanmugiwara&layout=compact&langs_count=7&theme=dracula"/>
