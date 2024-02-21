@@ -44,7 +44,6 @@ Tenho 32 anos, sou natural de Salvador/BA, moro em São Paulo/SP desde novembro 
 ![Recently Played in Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31azx3lfr7765tkvcyw4l6ow36ri)
 
 <div>
-<a href="https://github.com/alanmugiwara">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanmugiwara&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=alanmugiwara&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
