@@ -33,7 +33,7 @@ Tenho 32 anos, sou natural de Salvador/BA, moro em São Paulo/SP desde novembro 
 [![Big Linux](https://img.shields.io/badge/Big%20Linux-KDE-%238A2BE2.svg?&style=flat-square&logo=ubuntu&logoColor=white)](https://www.biglinux.com.br)
 [![Windows 11](https://img.shields.io/badge/Windows%2011-22H2-%238A2BE2.svg?&style=flat-square&logo=windows&logoColor=white)](https://ghostclouds.xyz/wp/w11-22h2-22621)
 [![Intel Core i7](https://img.shields.io/badge/Intel-Core%20i7%208th%20%20Gen-%238A2BE2.svg?&style=flat-square&logo=l&logoColor=white)](https://www.intel.com.br/content/www/br/pt/products/sku/122589/intel-core-i78550u-processor-8m-cache-up-to-4-00-ghz/specifications.html)
-[![12GB RAM](https://img.shields.io/badge/RAM%20DDR4-12GB-%238A2BE2.svg?&style=flat-square&logoColor=white)](https://github.com/alanmugiwara/alanmugiwara)
+[![12GB RAM](https://img.shields.io/badge/RAM%20DDR4-12GB-%238A2BE2.svg?&style=flat-square&logoColor=white)](https://github.com/alanmugiwara/alanmugiwara)<br/>
 [![Storage 1](https://img.shields.io/badge/SSD%201TB-NVMe-%238A2BE2.svg?&style=flat-square&logoColor=white)](https://walramelec.com/)
 [![Storage 2](https://img.shields.io/badge/SSD%201TB-SATA-%238A2BE2.svg?&style=flat-square&logoColor=white)](https://www.xray-disk.com/)
 [![Brave](https://img.shields.io/badge/Browser-Brave-%238A2BE2.svg?&style=flat-square&logo=Brave&logoColor=white)](https://brave.com/pt-br/)
