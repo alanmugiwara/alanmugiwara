@@ -15,7 +15,7 @@
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/alanmugiwara)](https://github.com/alanmugiwara)
  
 ## Hello!
-Tenho 32 anos, sou natural de Salvador/BA, moro em São Paulo/SP desde novembro de 2021. Sou bacharel em Museologia pela UFRB (2012/2017). Faço Análise e Desenvolvimento de Sitemas (2023/2025) na Anhanguera (Santana/SP) e estou em fase de migração de carreira, estagiando na SMIT/CGTIC - Prefeitura SP. <br/><h5 align="right">Repositório do grupo de tradução de games<br/>que fundei ao lado amigos no fim de 2017.</h5>
+Tenho 32 anos, sou natural de Salvador/BA, moro em São Paulo/SP desde novembro de 2021. Sou bacharel em Museologia pela UFRB (2012/2017). Faço Análise e Desenvolvimento de Sitemas (2023/2025) na Anhanguera (Santana/SP) e estou em fase de migração de carreira, estagiando na SMIT/CGTIC - Prefeitura SP. <h5 align="right">Repositório do grupo de tradução de games<br/>que fundei ao lado amigos no fim de 2017.</h5>
 ![jorney](https://i.postimg.cc/FsRTKT4x/jorney.gif)
 
 ## Estou aprendendo
