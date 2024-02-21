@@ -15,7 +15,7 @@
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/alanmugiwara)](https://github.com/alanmugiwara)
  
 ## Hello!
-Tenho 32 anos, sou natural de Salvador/BA, moro em São Paulo/SP desde novembro de 2021. Sou bacharel em Museologia pela UFRB (2012/2017). Faço Análise e Desenvolvimento de Sitemas (2023/2025) na Anhanguera (Santana/SP) e estou em fase de migração de carreira, estagiando na SMIT/CGTIC - Prefeitura SP. <h5 align="right">Repositório do grupo de tradução de games<br/>que fundei ao lado amigos no fim de 2017.</h5>
+Tenho 32 anos, sou natural de Salvador/BA, moro em São Paulo/SP desde novembro de 2021. Sou bacharel em Museologia pela UFRB (2012/2017). Faço Análise e Desenvolvimento de Sitemas (2023/2025) na Faculdade Anhanguera (Santana/SP) e estou em fase de migração de carreira, estagiando na SMIT/CGTIC - Prefeitura SP. <h5 align="right">Repositório do grupo de tradução de games<br/>que fundei ao lado amigos no fim de 2017.</h5>
 ![jorney](https://i.postimg.cc/FsRTKT4x/jorney.gif)
 
 ## 📖 Estou aprendendo
@@ -29,7 +29,7 @@ Tenho 32 anos, sou natural de Salvador/BA, moro em São Paulo/SP desde novembro 
  
 ## 💻 Meu setup
 
-[![Windows 11](https://img.shields.io/badge/Notebook%20Lenovo%20-330S-%238A2BE2.svg?&style=flat-square&logo=Laptop&ogoColor=white)](https://ghostclouds.xyz/wp/w11-22h2-22621)
+[![PC](https://img.shields.io/badge/Lenovo%20-330S%2015IKB-%238A2BE2.svg?&style=flat-square&logo=Laptop&ogoColor=white)](https://ghostclouds.xyz/wp/w11-22h2-22621)
 [![Big Linux](https://img.shields.io/badge/Big%20Linux-KDE-%238A2BE2.svg?&style=flat-square&logo=ubuntu&logoColor=white)](https://www.biglinux.com.br)
 [![Windows 11](https://img.shields.io/badge/Windows%2011-22H2-%238A2BE2.svg?&style=flat-square&logo=windows&logoColor=white)](https://ghostclouds.xyz/wp/w11-22h2-22621)
 [![Intel Core i7](https://img.shields.io/badge/Intel-Core%20i7%208th%20%20Gen-%238A2BE2.svg?&style=flat-square&logo=l&logoColor=white)](https://www.intel.com.br/content/www/br/pt/products/sku/122589/intel-core-i78550u-processor-8m-cache-up-to-4-00-ghz/specifications.html)
@@ -40,9 +40,9 @@ Tenho 32 anos, sou natural de Salvador/BA, moro em São Paulo/SP desde novembro 
 
 
 
-## Listen With Me On Spotify 🔊
+## 🔊 Escute também no Spotify
 
-[![My Playlist](https://img.shields.io/badge/My%20Garage%20Rock%20Music%20Playlist-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/4kL0kA3lIKKjaq06u0SOGm)
+[![My Playlist](https://img.shields.io/badge/Minha%20Playlist%20Garage%20Rock-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/4kL0kA3lIKKjaq06u0SOGm)
 
 
 [![Recently Played in Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31azx3lfr7765tkvcyw4l6ow36ri)](https://open.spotify.com/user/31azx3lfr7765tkvcyw4l6ow36ri)
