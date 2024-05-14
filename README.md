@@ -5,11 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-
-<a href="https://github.com/jumpmanclubbrasil">
-  <img align="right" width="250px" src="https://i.ibb.co/B3RK81T/jump-logo.png">
-</a>
-<div style="display: inline-block">
  
 ## 🧑‍💻 Álan Cruz
  
@@ -19,8 +14,12 @@
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/alanmugiwara)](https://github.com/alanmugiwara)
  
 ## Hello!
-Tenho 32 anos, sou natural de Salvador/BA, moro em São Paulo/SP desde novembro de 2021. Sou bacharel em Museologia pela UFRB (2012/2017). Curso Análise e Desenvolvimento de Sitemas (2023/2025) na Faculdade Anhanguera (Santana/SP) e estou em fase de migração de carreira, estagiando na SMIT (Secretária Municipal de Inovação e Tecnologia) Prefeitura-SP. <h5 align="right">Repositório do grupo de tradução de games<br/>que fundei ao lado de amigos no fim de 2017.</h5>
+Tenho 32 anos, sou natural de Salvador/BA, moro em São Paulo/SP desde novembro de 2021. Sou bacharel em Museologia pela UFRB (2012/2017). Curso Análise e Desenvolvimento de Sitemas (2023/2025) na Faculdade Anhanguera (Santana/SP) e estou em fase de migração de carreira, estagiando na SMIT (Secretária Municipal de Inovação e Tecnologia) Prefeitura-SP.
 ![jorney](https://i.postimg.cc/FsRTKT4x/jorney.gif)
+
+<a href="https://github.com/jumpmanclubbrasil">
+  <img width="250px" src="https://i.ibb.co/B3RK81T/jump-logo.png">
+</a> <h5 >Repositório do grupo de tradução de games<br/>que fundei ao lado de amigos no fim de 2017.</h5>
 
 ## 📖 Estou aprendendo
 [![HTML5 Badge](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)]()
