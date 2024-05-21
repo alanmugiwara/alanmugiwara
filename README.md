@@ -14,7 +14,7 @@
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/alanmugiwara)](https://github.com/alanmugiwara)
  
 ## Hello!
-Tenho 32 anos, sou natural de Salvador/BA, moro em São Paulo/SP desde novembro de 2021. Sou bacharel em Museologia pela UFRB (2012/2017). Curso Análise e Desenvolvimento de Sitemas (2023/2025) na Faculdade Anhanguera (Santana/SP) e estou em fase de migração de carreira, estagiando na SMIT (Secretária Municipal de Inovação e Tecnologia) Prefeitura-SP. <br>
+Tenho 32 anos, sou natural de Salvador/BA, moro em São Paulo/SP desde novembro de 2021. Sou bacharel em Museologia pela UFRB (2012/2017). Curso Análise e Desenvolvimento de Sitemas (2023/2025) na Faculdade Anhanguera (Santana/SP) e estou em fase de migração de carreira, estagiando na SMIT (Secretária Municipal de Inovação e Tecnologia) Prefeitura-SP. <br><br>
 ![jorney](https://i.postimg.cc/FsRTKT4x/jorney.gif) <br>
 
 <a href="https://github.com/jumpmanclubbrasil">
