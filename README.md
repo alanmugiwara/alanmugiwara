@@ -14,7 +14,7 @@
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/alanmugiwara)](https://github.com/alanmugiwara)
  
 ## Hello!
-Tenho 32 anos, sou natural de Salvador/BA, moro em São Paulo/SP desde novembro de 2021. Sou bacharel em Museologia pela UFRB (2012-2017) e pós-graduado em Gestão de Museus com Ênfase em Cultura pela UniBF (2022-2024). Curso Análise e Desenvolvimento de Sitemas (2023/2025) na Faculdade Anhanguera (Santana/SP) e estou em fase de migração de carreira, estagiando na SMIT (Secretária Municipal de Inovação e Tecnologia) Prefeitura-SP. <br><br>
+Tenho 33 anos, sou natural de Salvador/BA, moro em São Paulo/SP desde novembro de 2021. Sou bacharel em Museologia pela UFRB (2012-2017) e pós-graduado em Gestão de Museus com Ênfase em Cultura pela UniBF (2022-2024). Curso Análise e Desenvolvimento de Sitemas (2023/2025) na Faculdade Anhanguera (Santana/SP) e estou em fase de migração de carreira, estagiando na SMIT (Secretária Municipal de Inovação e Tecnologia) Prefeitura-SP. <br><br>
 ![jorney](https://i.postimg.cc/FsRTKT4x/jorney.gif) <br>
 
 <a href="https://github.com/jumpmanclubbrasil">
@@ -31,8 +31,8 @@ Tenho 32 anos, sou natural de Salvador/BA, moro em São Paulo/SP desde novembro 
 ## 💻 Meu setup
 
 [![PC](https://img.shields.io/badge/Lenovo%20-330S%2015IKB-%238A2BE2.svg?&style=flat-square&logo=Laptop&ogoColor=white)](https://support.lenovo.com/us/pt/solutions/pd500198)
-[![Big Linux](https://img.shields.io/badge/Big%20Linux-KDE-%238A2BE2.svg?&style=flat-square&logo=ubuntu&logoColor=white)](https://www.biglinux.com.br)
-[![Windows 11](https://img.shields.io/badge/Windows%2011-22H2-%238A2BE2.svg?&style=flat-square&logo=windows&logoColor=white)](https://ghostclouds.xyz/wp/w11-22h2-22621)
+[![Kali Linux](https://img.shields.io/badge/Kali%20Linux-XFCE-%238A2BE2.svg?&style=flat-square&logo=ubuntu&logoColor=white)](https://www.kali.org/)
+[![Windows 11](https://img.shields.io/badge/Windows%2011-23H2-%238A2BE2.svg?&style=flat-square&logo=windows&logoColor=white)](https://ghostclouds.xyz/wp/w11-22h2-22621)
 [![Intel Core i7](https://img.shields.io/badge/Intel-Core%20i7%208th%20%20Gen-%238A2BE2.svg?&style=flat-square&logo=l&logoColor=white)](https://www.intel.com.br/content/www/br/pt/products/sku/122589/intel-core-i78550u-processor-8m-cache-up-to-4-00-ghz/specifications.html)
 [![12GB RAM](https://img.shields.io/badge/RAM%20DDR4-12GB-%238A2BE2.svg?&style=flat-square&logoColor=white)](https://github.com/alanmugiwara/alanmugiwara)<br/>
 [![Storage 1](https://img.shields.io/badge/SSD%201TB-NVMe-%238A2BE2.svg?&style=flat-square&logoColor=white)](https://walramelec.com/)
