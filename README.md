@@ -15,7 +15,7 @@
  
 ## Hello!
 Tenho 33 anos, sou natural de Salvador/BA, moro em São Paulo/SP desde novembro de 2021. Sou bacharel em Museologia pela UFRB (2012-2017) e pós-graduado em Gestão de Museus com Ênfase em Cultura pela UniBF (2022-2024). Curso Análise e Desenvolvimento de Sitemas (2023/2025) na Faculdade Anhanguera (Santana/SP) e estou em fase de migração de carreira, estagiando na SMIT (Secretária Municipal de Inovação e Tecnologia) Prefeitura-SP. <br><br>
-![jorney](https://i.postimg.cc/FsRTKT4x/jorney.gif) <br>
+![jorney](https://c.tenor.com/n1ZS7gsJQq8AAAAC/tenor.gif) <br>
 
 <a href="https://github.com/jumpmanclubbrasil">
   <img width="250px" src="https://i.ibb.co/B3RK81T/jump-logo.png">
