@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
- 
 ## 🧑‍💻 Álan Cruz
  
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?)](https://github.com/alanmugiwara)
@@ -22,13 +14,15 @@ Tenho 33 anos, sou natural de Salvador/BA, moro em São Paulo/SP desde novembro 
 </a> <h5 >Repositório do grupo de tradução de games<br/>que fundei ao lado de amigos no fim de 2017.</h5>
 
 ## 📖 Estou aprendendo
-[![HTML5 Badge](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)]()
-[![JavaScript Badge](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)]()
-[![CSS3 Badge](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)]()
-[![Python Badge](https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=python&logoColor=ffdd54)]()
-</br>
+[![HTML5 Badge](https://img.shields.io/badge/html5-8A2BE2.svg?style=for-the-badge&logo=html5&logoColor=white)]()
+[![JavaScript Badge](https://img.shields.io/badge/javascript-8A2BE2.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)]()
+[![C Badge](https://img.shields.io/badge/-8A2BE2.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
+[![Python Badge](https://img.shields.io/badge/python-8A2BE2.svg?style=for-the-badge&logo=python&logoColor=ffdd54)]()
 
 ## 💻 Meu setup
+[![Rpi Badge](https://img.shields.io/badge/Raspberry%20Pi\-5-8A2BE2?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)]()
+[![Rpi Badge](https://img.shields.io/badge/Raspberry%20Pi\-Zero%202W-8A2BE2?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)]()
+[![Rpi Badge](https://img.shields.io/badge/Raspberry%20Pi\-Pico-8A2BE2?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)]()
 
 [![PC](https://img.shields.io/badge/Lenovo%20-330S%2015IKB-%238A2BE2.svg?&style=flat-square&logo=Laptop&ogoColor=white)](https://support.lenovo.com/us/pt/solutions/pd500198)
 [![Kali Linux](https://img.shields.io/badge/Kali%20Linux-XFCE-%238A2BE2.svg?&style=flat-square&logo=ubuntu&logoColor=white)](https://www.kali.org/)
@@ -46,17 +40,13 @@ Tenho 33 anos, sou natural de Salvador/BA, moro em São Paulo/SP desde novembro 
 [![Recently Played in Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31azx3lfr7765tkvcyw4l6ow36ri)](https://open.spotify.com/user/31azx3lfr7765tkvcyw4l6ow36ri)
 
 
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanmugiwara&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=alanmugiwara&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanmugiwara&layout=compact&langs_count=7&theme=material-palenight"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=alanmugiwara&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
 
 
-## 🔎 Para dúvidas, sugestões ou problemas, entre em contato
+## 🔎 Para dúvidas, críticas, sugestões ou contato profissional entre em contato
 
-<a href="https://instagram.com/alanmugiwaras" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="mailto:alanufrb@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
+<a href="https://instagram.com/alancruz_tec" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="mailto:contato@alancruz.tec.br"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
 <a href="https://linkedin.com/in/alansilvadacruz" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
-
- 
-</body>
-</html>
-
+<a href="https://alancruz.tec.br" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-My%20Website-%230077B5?style=for-the-badge&logo=wordpress&logoColor=white" alt="Website"></a>
