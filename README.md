@@ -1,10 +1,11 @@
 ## 🧑‍💻 Álan Cruz
  
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?)](https://github.com/alanmugiwara)
-[![Created Badge](https://badges.pufler.dev/created/alanmugiwara/alanmugiwara)](https://github.com/alanmugiwara)
-[![Updated Badge](https://badges.pufler.dev/updated/alanmugiwara/alanmugiwara)](https://github.com/alanmugiwara)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/alanmugiwara)](https://github.com/alanmugiwara)
- 
+[![made Language {generic badge}](https://img.shields.io/badge/Made%20with-Mardown%20-8A2BE2)](https://github.com/alanmugiwara)
+[![create date](https://badges.pufler.dev/created/alanmugiwara/7z-mugi-splitter?color=8A2BE2)](https://github.com/alanmugiwara)
+[![last update date](https://badges.pufler.dev/Updated/alanmugiwara/7z-mugi-splitter?color=8A2BE2)](https://github.com/alanmugiwara)
+[![Commits Badge](https://img.shields.io/github/commit-activity/m/alanmugiwara/7z-mugi-splitter.svg?color=8A2BE2)](https://github.com/alanmugiwara)
+
 ## Hello!
 Tenho 33 anos, sou natural de Salvador/BA, moro em São Paulo/SP desde novembro de 2021. Sou bacharel em Museologia pela UFRB (2012-2017) e pós-graduado em Gestão de Museus com Ênfase em Cultura pela UniBF (2022-2024). Curso Análise e Desenvolvimento de Sitemas (2023/2025) na Faculdade Anhanguera (Santana/SP) e estou em fase de migração de carreira, estagiando na SMIT (Secretária Municipal de Inovação e Tecnologia) Prefeitura-SP. <br><br>
 ![jorney](https://c.tenor.com/n1ZS7gsJQq8AAAAC/tenor.gif) <br>
