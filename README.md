@@ -1,12 +1,13 @@
 ## 🧑‍💻 Álan Cruz
  
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?)](https://github.com/alanmugiwara)
-[![made Language {generic badge}](https://img.shields.io/badge/Made%20with-Mardown%20-8A2BE2)](https://github.com/alanmugiwara)
+[![made Markdown {generic badge}](https://img.shields.io/badge/Made%20with-Markdown%20-8A2BE2)](https://github.com/alanmugiwara)
+[![made HTML {generic badge}](https://img.shields.io/badge/Made%20with-HTML--5%20-8A2BE2)](https://github.com/alanmugiwara)
 [![create date](https://badges.pufler.dev/created/alanmugiwara/7z-mugi-splitter?color=8A2BE2)](https://github.com/alanmugiwara)
 [![last update date](https://badges.pufler.dev/Updated/alanmugiwara/7z-mugi-splitter?color=8A2BE2)](https://github.com/alanmugiwara)
 [![Commits Badge](https://img.shields.io/github/commit-activity/m/alanmugiwara/7z-mugi-splitter.svg?color=8A2BE2)](https://github.com/alanmugiwara)
 
-## Hello!
+## 🖖 Hello!
 Tenho 33 anos, sou natural de Salvador/BA, moro em São Paulo/SP desde novembro de 2021. Sou bacharel em Museologia pela UFRB (2012-2017) e pós-graduado em Gestão de Museus com Ênfase em Cultura pela UniBF (2022-2024). Curso Análise e Desenvolvimento de Sitemas (2023/2025) na Faculdade Anhanguera (Santana/SP) e estou em fase de migração de carreira, estagiando na SMIT (Secretária Municipal de Inovação e Tecnologia) Prefeitura-SP. <br><br>
 ![jorney](https://c.tenor.com/n1ZS7gsJQq8AAAAC/tenor.gif) <br>
 
@@ -40,14 +41,15 @@ Tenho 33 anos, sou natural de Salvador/BA, moro em São Paulo/SP desde novembro 
 
 [![Recently Played in Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31azx3lfr7765tkvcyw4l6ow36ri)](https://open.spotify.com/user/31azx3lfr7765tkvcyw4l6ow36ri)
 
-
+## 📊 GitHub Stats:
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanmugiwara&layout=compact&langs_count=7&theme=material-palenight"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=alanmugiwara&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
 
+[![Profile viewers](https://visitcount.itsvg.in/api?id=alanmugiwara&icon=1&color=0)](https://visitcount.itsvg.in)
 
-## 🔎 Para dúvidas, críticas, sugestões ou contato profissional entre em contato
+## 🔎 Dúvidas, críticas, sugestões, contato profissional.
 
 <a href="https://instagram.com/alancruz_tec" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="mailto:contato@alancruz.tec.br"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
+<a href="mailto:contato@alancruz.tec.br"><img loading="lazy" src="https://img.shields.io/badge/E--Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
 <a href="https://linkedin.com/in/alansilvadacruz" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
 <a href="https://alancruz.tec.br" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-My%20Website-%230077B5?style=for-the-badge&logo=wordpress&logoColor=white" alt="Website"></a>
