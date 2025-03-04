@@ -45,7 +45,7 @@ Tenho 33 anos, sou natural de Salvador/BA, moro em São Paulo/SP desde novembro 
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanmugiwara&layout=compact&langs_count=7&theme=material-palenight"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=alanmugiwara&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
 
-[![Profile viewers](https://visitcount.itsvg.in/api?id=alanmugiwara&icon=1&color=0)](https://visitcount.itsvg.in)
+[![Profile views](https://komarev.com/ghpvc/?username=alanmugiwara&style=for-the-badge&color=blueviolet)](https://github.com/alanmugiwara)
 
 ## 🔎 Dúvidas, críticas, sugestões, contato profissional.
 
