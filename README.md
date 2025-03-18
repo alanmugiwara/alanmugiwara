@@ -1,11 +1,11 @@
-## 🧑‍💻 Álan Cruz
- 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?)](https://github.com/alanmugiwara)
 [![made Markdown {generic badge}](https://img.shields.io/badge/Made%20with-Markdown%20-8A2BE2)](https://github.com/alanmugiwara)
 [![made HTML {generic badge}](https://img.shields.io/badge/Made%20with-HTML--5%20-8A2BE2)](https://github.com/alanmugiwara)
 [![create date](https://badges.pufler.dev/created/alanmugiwara/7z-mugi-splitter?color=8A2BE2)](https://github.com/alanmugiwara)
 [![last update date](https://badges.pufler.dev/Updated/alanmugiwara/7z-mugi-splitter?color=8A2BE2)](https://github.com/alanmugiwara)
 [![Commits Badge](https://img.shields.io/github/commit-activity/m/alanmugiwara/7z-mugi-splitter.svg?color=8A2BE2)](https://github.com/alanmugiwara)
+
+![Header Image](https://cardivo.vercel.app/api?name=Álan%20Cruz&description=%20Fazer%20do%20mundo%20um%20lugar%20menos%20pior%21&image=https://avatars.githubusercontent.com/u/38691133?v=4p&instagram=alancruz_tec&linkedin=Álan%20Silva%20da%20Cruz&github=alanmugiwara&pattern=leaf&backgroundColor=%238A2BE2&colorPattern=%23fff&fontColor=%23fff&iconColor=%23fff&opacity=0.1)
 
 ## 🖖 Hello!
 Tenho 33 anos, sou natural de Salvador/BA, moro em São Paulo/SP desde novembro de 2021. Sou bacharel em Museologia pela UFRB (2012-2017) e pós-graduado em Gestão de Museus com Ênfase em Cultura pela UniBF (2022-2024). Curso Análise e Desenvolvimento de Sitemas (2023/2025) na Faculdade Anhanguera (Santana/SP) e estou em fase de migração de carreira, estagiando na SMIT (Secretária Municipal de Inovação e Tecnologia) Prefeitura-SP. <br><br>
