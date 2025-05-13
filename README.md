@@ -1,4 +1,4 @@
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?)](https://github.com/alanmugiwara)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png)](https://github.com/alanmugiwara)
 [![made Markdown {generic badge}](https://img.shields.io/badge/Made%20with-Markdown%20-8A2BE2)](https://github.com/alanmugiwara)
 [![made HTML {generic badge}](https://img.shields.io/badge/Made%20with-HTML--5%20-8A2BE2)](https://github.com/alanmugiwara)
 [![create date](https://badges.pufler.dev/created/alanmugiwara/7z-mugi-splitter?color=8A2BE2)](https://github.com/alanmugiwara)
