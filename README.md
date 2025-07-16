@@ -3,6 +3,8 @@
 [![made HTML](https://img.shields.io/badge/Made%20with-HTML--5%20-8A2BE2)](https://github.com/alanmugiwara)
 ![Created](https://img.shields.io/badge/Created-Feb%205,%202024-8A2BE2)
 [![Last Commit](https://img.shields.io/github/last-commit/alanmugiwara/alanmugiwara?color=8A2BE2&label=Last%20Commit)](https://github.com/alanmugiwara/alanmugiwara)
+![](https://komarev.com/ghpvc/?username=alanmugiwara&color=blueviolet)
+
 
 ![Header Image](https://cardivo.vercel.app/api?name=Álan%20Cruz&description=%20Fazer%20do%20mundo%20um%20lugar%20menos%20pior%21&image=https://avatars.githubusercontent.com/u/38691133?v=4p&instagram=alancruz_tec&linkedin=Álan%20Silva%20da%20Cruz&github=alanmugiwara&pattern=leaf&backgroundColor=%238A2BE2&colorPattern=%23fff&fontColor=%23fff&iconColor=%23fff&opacity=0.1)
 
