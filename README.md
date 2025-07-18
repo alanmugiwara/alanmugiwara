@@ -14,7 +14,7 @@
 🔧 Técnico de Informática (2010-presente);  
 🧑‍💻 No último semestre de Análise e Desenvolvimento de Sistemas **Faculdade Anhanguera** (2023-2025);  
 📚 Estagiário na Secretaria Municipal de Inovação e Tecnologia da prefeitura de SP **(SMIT)** (2023-2025);  
-💼 Servidor Comissionado na Secretaria Municipal de Inovação e Tecnologia da prefeitura de SP **(SMIT)** (2025-presente);  
+💼 Servidor Comissionado na Secretaria Municipal de Inovação e Tecnologia da prefeitura de SP **(SMIT)** (2025-presente).
 
 ![jorney](https://c.tenor.com/n1ZS7gsJQq8AAAAC/tenor.gif)
 
