@@ -8,7 +8,7 @@
 ![Header Image](https://cardivo.vercel.app/api?name=Álan%20Cruz&description=%20Transformando%20o%20mundo%20num%20lugar%20menos%20pior%21&image=https://avatars.githubusercontent.com/u/38691133?v=4p&instagram=alancruz_tec&linkedin=Álan%20Silva%20da%20Cruz&github=alanmugiwara&pattern=leaf&backgroundColor=%238A2BE2&colorPattern=%23fff&fontColor=%23fff&iconColor=%23fff&opacity=0.1)
 
 ## 🖖 Hello!
-🌍 Sou natural de Salvador/BA, tenho 33 anosm moro em São Paulo/SP (2021-presente) ;  
+🌍 Sou natural de Salvador/BA, tenho 33 anos, moro em São Paulo/SP (2021-presente);  
 🎨 Bacharel em Museologia **UFRB** (2012-2017);  
 🏛️ Pós-graduado Lato sensu em Gestão de Museus com ênfase em Cultura **UniBF** (2022-2024);   
 🔧 Técnico de Informática (2010-presente);  
