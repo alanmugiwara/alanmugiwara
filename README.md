@@ -23,10 +23,13 @@
   <img width="250px" src="https://raw.githubusercontent.com/alanmugiwara/alanmugiwara/refs/heads/main/jump-logo.png">
 
 ## 📖 Tecnologias que utilizo
-<img width="600px" src="https://skillicons.dev/icons?i=linux,python,figma,html,css,docker,git,bash,md,theme=dark" />
+<img width="600px" src="https://skillicons.dev/icons?i=linux,python,figma,html,css,docker,git,bash,md,theme=dark"/>
 
 ## 🛠️ Ferramentas que utilizo
-<img width="500px" src="https://skillicons.dev/icons?i=obsidian,ubuntu,debian,idea,vscode,github,raspberrypi,theme=dark" />
+<p>
+  <img src="https://skillicons.dev/icons?i=obsidian,ubuntu,debian,idea,vscode,github,raspberrypi&theme=dark&"/>
+  &nbsp;<img src="https://i.postimg.cc/1zMNJncR/dietpi.png" width="49" alt="obsidian"/>
+</p>
 
 ## 💻 Meu setup
 [![Rpi Badge](https://img.shields.io/badge/Raspberry%20Pi\-5-8A2BE2?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)]()
@@ -58,4 +61,5 @@
 <a href="mailto:contato@alancruz.tec.br"><img loading="lazy" src="https://img.shields.io/badge/E--Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
 <a href="https://linkedin.com/in/alansilvadacruz" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
 <a href="https://alancruz.tec.br" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-My%20Website-%230077B5?style=for-the-badge&logo=wordpress&logoColor=white" alt="Website"></a>
+
 
