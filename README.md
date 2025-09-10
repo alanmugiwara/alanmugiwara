@@ -23,13 +23,31 @@
   <img width="250px" src="https://raw.githubusercontent.com/alanmugiwara/alanmugiwara/refs/heads/main/jump-logo.png">
 
 ## 📖 Tecnologias que utilizo
-<img width="600px" src="https://skillicons.dev/icons?i=linux,python,figma,html,css,docker,git,bash,md,theme=dark"/>
+## 📖 Tecnologias que utilizo
+<p>
+  <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="60" title="GNU/Linux" alt="Linux"/>
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" width="60" title="Python" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="60" title="Figma" alt="Figma"/>
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" width="60" title="HTML5" alt="HTML"/>
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" width="60" title="CSS3" alt="CSS"/>
+  <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="60" title="Docker" alt="Docker"/>
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" width="60" title="Git" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=bash&theme=dark" width="60" title="Bash" alt="Bash"/>
+  <img src="https://skillicons.dev/icons?i=md&theme=dark" width="60" title="Markdown" alt="Markdown"/>
+</p>
 
 ## 🛠️ Ferramentas que utilizo
 <p>
-  <img src="https://skillicons.dev/icons?i=obsidian,ubuntu,debian,idea,vscode,github,raspberrypi&theme=dark&"/>
-  &nbsp;<img src="https://i.postimg.cc/1zMNJncR/dietpi.png" width="49" alt="obsidian"/>
+  <img src="https://skillicons.dev/icons?i=obsidian&theme=dark" width="55" title="Obsidian" alt="Obsidian"/>
+  <img src="https://skillicons.dev/icons?i=ubuntu&theme=dark" width="55" title="Ubuntu" alt="Ubuntu"/>
+  <img src="https://skillicons.dev/icons?i=debian&theme=dark" width="55" title="Debian" alt="Debian"/>
+  <img src="https://skillicons.dev/icons?i=idea&theme=dark" width="55" title="IntelliJ IDEA" alt="IntelliJ IDEA"/>
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="55" title="VSCode" alt="VSCode"/>
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="55" title="GitHub" alt="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=raspberrypi&theme=dark" width="55" title="Raspberry Pi" alt="Raspberry Pi"/>
+  <img src="https://i.postimg.cc/1zMNJncR/dietpi.png" width="55" title="DietPi" alt="DietPi"/>
 </p>
+
 
 ## 💻 Meu setup
 [![Rpi Badge](https://img.shields.io/badge/Raspberry%20Pi\-5-8A2BE2?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)]()
@@ -61,5 +79,6 @@
 <a href="mailto:contato@alancruz.tec.br"><img loading="lazy" src="https://img.shields.io/badge/E--Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
 <a href="https://linkedin.com/in/alansilvadacruz" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
 <a href="https://alancruz.tec.br" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-My%20Website-%230077B5?style=for-the-badge&logo=wordpress&logoColor=white" alt="Website"></a>
+
 
 
