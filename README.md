@@ -21,13 +21,12 @@
 ## 🎮 Projetos em destaque
 <a href="https://github.com/jumpmanclubbrasil">
   <img width="250px" src="https://raw.githubusercontent.com/alanmugiwara/alanmugiwara/refs/heads/main/jump-logo.png">
-</a> <h5 >Repositório do grupo de tradução de games <br/> que fundei ao lado de amigos no fim de 2017.</h5>
 
 ## 📖 Tecnologias que utilizo
-<img width="600px" src="https://skillicons.dev/icons?i=linux,python,html,css,docker,git,md,raspberrypi,theme=dark" />
+<img width="600px" src="https://skillicons.dev/icons?i=linux,python,figma,html,css,docker,git,bash,md,theme=dark" />
 
 ## 🛠️ Ferramentas que utilizo
-<img width="400px" src="https://skillicons.dev/icons?i=obsidian,ubuntu,idea,github,vscode&theme=dark" />
+<img width="500px" src="https://skillicons.dev/icons?i=obsidian,ubuntu,debian,idea,vscode,github,raspberrypi,theme=dark" />
 
 ## 💻 Meu setup
 [![Rpi Badge](https://img.shields.io/badge/Raspberry%20Pi\-5-8A2BE2?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)]()
@@ -59,3 +58,4 @@
 <a href="mailto:contato@alancruz.tec.br"><img loading="lazy" src="https://img.shields.io/badge/E--Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
 <a href="https://linkedin.com/in/alansilvadacruz" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
 <a href="https://alancruz.tec.br" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-My%20Website-%230077B5?style=for-the-badge&logo=wordpress&logoColor=white" alt="Website"></a>
+
