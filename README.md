@@ -53,7 +53,7 @@
 [![Rpi Badge](https://img.shields.io/badge/Raspberry%20Pi\-Zero%202W-8A2BE2?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)]()
 [![Rpi Badge](https://img.shields.io/badge/Raspberry%20Pi\-Pico-8A2BE2?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)]()  
 [![PC](https://img.shields.io/badge/Lenovo%20-330S%2015IKB-%238A2BE2.svg?&style=flat-square&logo=Laptop&ogoColor=white)](https://support.lenovo.com/us/pt/solutions/pd500198)
-[![Debian Trixie](https://img.shields.io/badge/Debian%20-Trixie-%238A2BE2.svg?&style=flat-square&logo=ubuntu&logoColor=white)](https://www.debian.org/)
+[![Debian Trixie](https://img.shields.io/badge/Debian%20-Trixie-%238A2BE2.svg?&style=flat-square&logo=debian&logoColor=white)](https://www.debian.org/)
 [![Intel Core i7](https://img.shields.io/badge/Intel-Core%20i7%208th%20%20Gen-%238A2BE2.svg?&style=flat-square&logo=l&logoColor=white)](https://www.intel.com.br/content/www/br/pt/products/sku/122589/intel-core-i78550u-processor-8m-cache-up-to-4-00-ghz/specifications.html)
 [![12GB RAM](https://img.shields.io/badge/RAM%20DDR4-12GB-%238A2BE2.svg?&style=flat-square&logoColor=white)](https://github.com/alanmugiwara/alanmugiwara)<br/>
 [![Storage 1](https://img.shields.io/badge/SSD%201TB-NVMe-%238A2BE2.svg?&style=flat-square&logoColor=white)](https://walramelec.com/)
@@ -77,3 +77,4 @@
 <a href="mailto:contato@alancruztec.com.br"><img loading="lazy" src="https://img.shields.io/badge/E--Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
 <a href="https://linkedin.com/in/alansilvadacruz" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
 <a href="https://alancruztec.com.br" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-My%20Website-%230077B5?style=for-the-badge&logo=wordpress&logoColor=white" alt="Website"></a>
+
