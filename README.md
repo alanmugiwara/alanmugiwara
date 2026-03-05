@@ -65,16 +65,8 @@
 
 [![Recently Played in Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31azx3lfr7765tkvcyw4l6ow36ri)](https://open.spotify.com/user/31azx3lfr7765tkvcyw4l6ow36ri)
 
-## 🏆 Conquistas & Métricas
-<img src="https://github-profile-trophy.vercel.app/?username=alanmugiwara&theme=dracula&column=3&row=2&margin-w=8&margin-h=8" />
-
-## 📊 GitHub Stats
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanmugiwara&layout=compact&langs_count=7&theme=material-palenight"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=alanmugiwara&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
-
 ## 🌐 Contato
 <a href="https://instagram.com/alancruz_tec" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="mailto:contato@alancruztec.com.br"><img loading="lazy" src="https://img.shields.io/badge/E--Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
 <a href="https://linkedin.com/in/alansilvadacruz" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
 <a href="https://alancruztec.com.br" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-My%20Website-%230077B5?style=for-the-badge&logo=wordpress&logoColor=white" alt="Website"></a>
-
